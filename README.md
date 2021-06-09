@@ -28,7 +28,7 @@ Actual time needed to complete:
 # Feature #4: Display a Modal
 Estimate of time needed to complete: 
 
-Start time: 
+Start time: --
 
 Finish time: 
 
